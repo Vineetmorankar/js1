@@ -1,0 +1,57 @@
+.cent {
+    margin: auto;
+    max-width: 45vh;
+    margin-top: 100px;
+    border-style: ridge;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 5%;
+    background-color: black;
+
+}
+
+.mg-auto {
+    margin: 1px 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 15px 15px;
+    margin: 4px;
+    width: 50px;
+    border-radius: 30%;
+    background: cyan;
+    font-size: larger;
+    color: black;
+    cursor: pointer;
+    border: 2px solid black;
+    outline: none;
+    box-shadow: 1px 1px 1px white;
+}
+
+button:hover {
+    background: rgb(185, 249, 249);
+}
+
+.text {
+    text-align: right;
+    box-shadow: 1px 1px 1px white;
+    padding: 10px 25px;
+    border: solid 2px black;
+    border-radius: 50px;
+    font-size: 15px;
+    margin: 4px;
+    background: rgb(185, 249, 249);
+}
+
+.text:hover {
+    box-shadow: 0 0 3px 3px grey inset;
+}
+
+.eq {
+    padding-left: 49px;
+    padding-right: 49px;
+    text-align: center;
+}

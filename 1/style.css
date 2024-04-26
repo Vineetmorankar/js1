@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.nav-ul{
+    height: 50px;
+    background-color: aqua;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+
+}
+.item{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.tt{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one{
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+.{
+    background-color: black;
+    color: white;
+}
+
+.time{
+    width: 100px;
+    height: 100px;
+    text-align:center;
+    margin: 0;
+    border: 1px solid black;
+}
+
+.timetable{
+    border-collapse: collapse;
+}
